@@ -17,7 +17,7 @@ type: page
 
 * GitHub：[403323726](https://github.com/403323726)
 * Email：403323726@qq.com
-*QQ：403323726
+* QQ：403323726
 
 
 ## 喜欢的美句
@@ -31,3 +31,6 @@ type: page
 成功就在你眼前
 
 
+## Comments
+
+{% include comments.html %}
