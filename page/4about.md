@@ -11,6 +11,8 @@ type: page
 
 ## 关于我
 
+！[image](https://github.com/403323726/403323726.github.io/blob/master/photos/2B.jpg)
+
 咸鱼一枚，脑洞大开尝试设（ban）计（yun）个人网站，此网站作为博客使用。。。
 
 ## 联系我
