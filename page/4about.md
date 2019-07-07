@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="2B.jpg" style="border: 0;height: 120px;width: 108px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="2B.jpg">
 
 咸鱼一枚，脑洞大开尝试设（ban）计（yun）个人网站，此网站作为博客使用。。。
 
