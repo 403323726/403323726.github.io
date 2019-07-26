@@ -11,6 +11,8 @@ type: page
 
 ## 关于我
 
+![img](http://media.cackle.me/d/7c/96bdb2140d4eb116c3886b901535f7cd.png)
+
 咸鱼一枚，脑洞大开尝试设（ban）计（yun）个人网站，此网站作为博客使用。。。
 
 ## 联系我
