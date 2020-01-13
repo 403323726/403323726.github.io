@@ -20,6 +20,8 @@ type: page
 
 [Typora - 降价编辑器，降价阅读器。](https://www.typora.io/#windows)
 
+[极简主页 #Start](http://start.thatwind.com/)
+
 ## Comments
 
 {% include comments.html %}
